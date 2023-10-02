@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a chat app**
 
-- 🌱 I’m currently learning **on some programming languages and Frameworks**
+- 🌱 I’m currently learning **some programming languages and Frameworks**
 
 - 👨‍💻 My projects is available at [https://my-portfolio-ritik-1118.vercel.app/](https://my-portfolio-ritik-1118.vercel.app/)
 
