@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **some programming languages and Frameworks**
 
-- 👨‍💻 My projects are available at [https://my-portfolio-ritik-1118.vercel.app/](https://my-portfolio-ritik-1118.vercel.app/)
+- 👨‍💻 My projects are available at [https://my-portfolio-ritik-1118.vercel.app/](https://my-portfolio-ritik-1118.vercel.app/pages/projects)
 
 - 📫 How to reach me **ritik11181@gmail.com**
 </h4></pr>
