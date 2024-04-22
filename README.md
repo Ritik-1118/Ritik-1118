@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/ritikku56343248" target="blank"><img src="https://img.shields.io/twitter/follow/ritikku56343248?logo=twitter&style=for-the-badge" alt="ritikku56343248" /></a> </p>
 <pr><h4>
-- 🔭 I’m currently working on **a MERN app**
+- 🔭 I’m currently working on a ** E-Learning App**
 
-- 🌱 I’m currently learning **some programming languages and Frameworks**
+- 🌱 I’m currently learning **TypeScript and three.js**
 
 - 👨‍💻 My projects are available at [https://my-portfolio-ritik-1118.vercel.app/](https://my-portfolio-ritik-1118.vercel.app/pages/projects)
 
