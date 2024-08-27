@@ -11,7 +11,7 @@
 <pr><h4>
 - 🔭 I’m currently working on a ** E-Learning App**
 
-- 🌱 I’m currently learning **TypeScript and three.js**
+- 🌱 I’m currently learning **TypeScript and three.js And Practicing DSA**
 
 - 👨‍💻 My projects are available at [https://my-portfolio-ritik-1118.vercel.app/](https://my-portfolio-ritik-1118.vercel.app/pages/projects)
 
