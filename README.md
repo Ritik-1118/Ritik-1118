@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **TypeScript and three.js And Practicing DSA**
 
-- 👨‍💻 My projects are available at [https://my-portfolio-ritik-1118.vercel.app/](https://my-portfolio-ritik-1118.vercel.app/pages/projects)
+- 👨‍💻 My projects are available at [https://ritik1118.vercel.app/](https://ritik1118.vercel.app)
 
 - 📫 How to reach me **ritik11181@gmail.com**
 </h4></pr>
