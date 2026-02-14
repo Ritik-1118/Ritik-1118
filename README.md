@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik</h1>
-<h3 align="center">A passionate Fullstack web developer from India.</h3>
+<h3 align="center">A passionate Fullstack software developer from India.</h3>
 <hr/>
 <img align="right" alt="Coding img" width="400" style="border: 2px solid #000; border-radius: 50%;"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **TypeScript and three.js And Practicing DSA**
 
-- 👨‍💻 My projects are available at [https://ritik1118.vercel.app/](https://ritik1118.vercel.app)
+- 👨‍💻 My projects are available at [https://ritik1118.me](https://ritik1118.vercel.app)
 
 - 📫 How to reach me **ritik11181@gmail.com**
 </h4></pr>
